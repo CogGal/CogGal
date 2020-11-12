@@ -314,13 +314,13 @@
 160,41,chocolate,Other,15,51,377,Aviv,Blue,Cats,17,62,30,70,97,27
 171,40,icecream,Other,6,142,1282,Omer,White,Dogs,36,94,7,86,75,64
 172,37,chocolate,Winter,9,114,330,Aviv,Black,Dogs,86,51,98,78,6,32
-241,39,bisli,Winter,12,21,1100,Aviv,Black,Cats,47,47,96,92,89,16
-125,40,bamba,Summer,15,25,1210,Omer,Blue,Dogs,12,78,63,30,31,64
+341,39,bisli,Winter,12,21,1100,Aviv,Black,Cats,47,47,96,92,89,16
+105,40,bamba,Summer,15,25,1210,Omer,Blue,Dogs,12,78,63,30,31,64
 168,0.1,icecream,Other,11,18,950,Aviv,Green,Dogs,84,47,74,59,21,53
 174,4200,chocolate,Winter,8,24,890,Omer,Pink,Cats,31,87,82,14,11,73
-177,36,icecream,Winter,1500,41,1023,Omer,Blue,Cats,53,13,86,5,8,86
+177,36,icecream,Winter,4500,41,1023,Omer,Blue,Cats,53,13,86,5,8,86
 174,40,chocolate,Summer,-12,30,1788,Aviv,Green,Cats,49,12,18,73,3,83
-159,39,bisli,Winter,8,79,1644,Omer,Green,Dogs,93,19,98,7,6,85
+159,39,bisli,Winter,8,7119,1644,Omer,Green,Dogs,93,19,98,7,6,85
 173,38,bamba,Summer,8,-29,922,Aviv,Pink,Cats,13,58,51,95,74,82
 182,43,bamba,Summer,17,22,-52,Aviv,Blue,Dogs,29,71,57,21,70,12
 155,40,bisli,Other,16,35,3983,Omer,Green,Cats,26,68,72,97,94,38
